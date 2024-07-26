@@ -1,0 +1,88 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="white" rx="10" ry="10"/>
+    <g>
+        <line x1="7%" x2="91%" y1="70%" y2="70%" stroke="black" stroke-width="2" />
+        <line x1="7%" x2="7%" y1="70%" y2="7%" stroke="black" stroke-width="2" />
+    </g>
+    <g transform="translate(6, 0)" id="x-axis">
+        <text x="0%" y="7%" alignment-baseline="middle"  font-size="10" fill="black">100%</text>
+        <text x="1%" y="13.3%" alignment-baseline="middle" font-size="10" fill="black">90%</text>
+        <text x="1%" y="19.6%" alignment-baseline="middle" font-size="10" fill="black">80%</text>
+        <text x="1%" y="25.9%" alignment-baseline="middle" font-size="10" fill="black">70%</text>
+        <text x="1%" y="32.2%" alignment-baseline="middle" font-size="10" fill="black">60%</text>
+        <text x="1%" y="38.5%" alignment-baseline="middle" font-size="10" fill="black">50%</text>
+        <text x="1%" y="44.8%" alignment-baseline="middle" font-size="10" fill="black">40%</text>
+        <text x="1%" y="51.1%" alignment-baseline="middle" font-size="10" fill="black">30%</text>
+        <text x="1%" y="57.4%" alignment-baseline="middle" font-size="10" fill="black">20%</text>
+        <text x="1%" y="63.7%" alignment-baseline="middle" font-size="10" fill="black">10%</text>
+        <text x="2%" y="70%" alignment-baseline="middle" font-size="10" fill="black">0%</text>
+    </g>
+    <g id="y-axis">
+        <text x="7%" y="7%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)"  fill="black">20/05/2024</text>
+        <text x="7%" y="14%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="21%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="28%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="35%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="42%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="49%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="56%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="63%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="70%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="77%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="84%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="91%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="98%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="105%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="112%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="119%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="126%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="133%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="140%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+        <text x="7%" y="147%" alignment-baseline="middle" font-size="10" transform="translate(16, 315) rotate(270)" fill="black">20/05/2024</text>
+    </g>
+    <g>
+        <line x1="7%" x2="11.5%" y1="35%" y2="60%" stroke="red" stroke-width="2" />
+        <line x1="11.5%" x2="15%" y1="60%" y2="40%" stroke="red" stroke-width="2" />
+        <line x1="15%" x2="19.5%" y1="40%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="19.5%" x2="24%" y1="20%" y2="35%" stroke="red" stroke-width="2" />
+        <line x1="24%" x2="28.5%" y1="35%" y2="60%" stroke="red" stroke-width="2" />
+        <line x1="28.5%" x2="33%" y1="60%" y2="40%" stroke="red" stroke-width="2" />
+        <line x1="33%" x2="37.5%" y1="40%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="37.5%" x2="42%" y1="20%" y2="35%" stroke="red" stroke-width="2" />
+        <line x1="42%" x2="46.5%" y1="35%" y2="60%" stroke="red" stroke-width="2" />
+        <line x1="46.5%" x2="51%" y1="60%" y2="40%" stroke="red" stroke-width="2" />
+        <line x1="51%" x2="55.5%" y1="40%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="55.5%" x2="60%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="60%" x2="64.5%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="64.5%" x2="69%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="69%" x2="73.5%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="69%" x2="73.5%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="73.5%" x2="78%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="78%" x2="82.5%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="82.5%" x2="87%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="87%" x2="91%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+        <line x1="69%" x2="73.5%" y1="20%" y2="20%" stroke="red" stroke-width="2" />
+    </g>
+    <g>
+        <circle cx="7%" cy="35%" r="4" fill="red" />
+        <circle cx="11.5%" cy="60%" r="4" fill="red" />
+        <circle cx="15%" cy="40%" r="4" fill="red" />
+        <circle cx="19.5%" cy="20%" r="4" fill="red" />
+        <circle cx="24%" cy="35%" r="4" fill="red" />
+        <circle cx="28.5%" cy="60%" r="4" fill="red" />
+        <circle cx="33%" cy="40%" r="4" fill="red" />
+        <circle cx="37.5%" cy="20%" r="4" fill="red" />
+        <circle cx="42%" cy="35%" r="4" fill="red" />
+        <circle cx="46.5%" cy="60%" r="4" fill="red" />
+        <circle cx="51%" cy="40%" r="4" fill="red" />
+        <circle cx="55.5%" cy="20%" r="4" fill="red" />
+        <circle cx="60%" cy="20%" r="4" fill="red" />
+        <circle cx="64.5%" cy="20%" r="4" fill="red" />
+        <circle cx="69%" cy="20%" r="4" fill="red" />
+        <circle cx="73.5%" cy="20%" r="4" fill="red" />
+        <circle cx="78%" cy="20%" r="4" fill="red" />
+        <circle cx="82.5%" cy="20%" r="4" fill="red" />
+        <circle cx="87%" cy="20%" r="4" fill="red" />
+        <circle cx="91.5%" cy="20%" r="4" fill="red" />
+    </g>
+</svg>

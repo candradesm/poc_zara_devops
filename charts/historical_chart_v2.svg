@@ -1,0 +1,164 @@
+<svg width="560" height="320" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#262b32" rx="10" ry="10"/>
+    <path d="M30 10 L30 250 L480 250" fill="none" stroke="white" stroke-width="1"/>
+
+    <g id="legend">
+        <rect x="480" y="30" width="5" height="5" fill="#1b85b8" rx="10" ry="10"/>
+        <text x="488" y="33" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white">Partial CO
+        </text>
+    </g>
+
+    <g id="x-axis">
+        <text x="25" y="25" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">100%
+        </text>
+        <text x="25" y="40" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">90%
+        </text>
+        <text x="25" y="55" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">80%
+        </text>
+        <text x="25" y="70" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">70%
+        </text>
+        <text x="25" y="85" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">60%
+        </text>
+        <text x="25" y="100" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">50%
+        </text>
+        <text x="25" y="115" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">40%
+        </text>
+        <text x="25" y="130" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">30%
+        </text>
+        <text x="25" y="145" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">20%
+        </text>
+        <text x="25" y="160" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">10%
+        </text>
+        <text x="25" y="175" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+        <text x="25" y="190" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+        <text x="25" y="205" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+        <text x="25" y="220" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+        <text x="25" y="235" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+        <text x="25" y="250" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end">0%
+        </text>
+    </g>
+
+    <g id="y-axis">
+        <text x="30" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle" font-size="8" fill="white" text-anchor="end" transform="rotate(-90 30 260)">25/05/2023
+        </text>
+        <text x="50" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 50 260)">25/05/2023
+        </text>
+        <text x="70" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 70 260)">25/05/2023
+        </text>
+        <text x="90" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 90 260)">25/05/2023
+        </text>
+        <text x="110" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 110 260)">25/05/2023
+        </text>
+        <text x="130" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 130 260)">25/05/2023
+        </text>
+        <text x="150" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 150 260)">25/05/2023
+        </text>
+        <text x="170" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 170 260)">25/05/2023
+        </text>
+        <text x="190" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 190 260)">25/05/2023
+        </text>
+        <text x="210" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 210 260)">25/05/2023
+        </text>
+        <text x="230" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 230 260)">25/05/2023
+        </text>
+        <text x="250" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 250 260)">25/05/2023
+        </text>
+        <text x="270" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 270 260)">25/05/2023
+        </text>
+        <text x="290" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 290 260)">25/05/2023
+        </text>
+        <text x="310" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 310 260)">25/05/2023
+        </text>
+        <text x="330" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 330 260)">25/05/2023
+        </text>
+        <text x="350" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 350 260)">25/05/2023
+        </text>
+        <text x="370" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 370 260)">25/05/2023
+        </text>
+        <text x="390" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 390 260)">25/05/2023
+        </text>
+        <text x="410" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 410 260)">25/05/2023
+        </text>
+        <text x="430" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 430 260)">25/05/2023
+        </text>
+        <text x="450" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 450 260)">25/05/2023
+        </text>
+        <text x="470" y="260" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" alignment-baseline="middle"
+              font-size="8" fill="white" text-anchor="end" transform="rotate(-90 470 260)">25/05/2023
+        </text>
+    </g>
+
+    <g id="points">
+        <circle cx="30" cy="217" r="4" fill="#1b85b8"/>
+        <circle cx="50" cy="189" r="4" fill="#1b85b8"/>
+        <circle cx="70" cy="86" r="4" fill="#1b85b8"/>
+        <circle cx="90" cy="232" r="4" fill="#1b85b8"/>
+        <circle cx="110" cy="113" r="4" fill="#1b85b8"/>
+        <circle cx="130" cy="144" r="4" fill="#1b85b8"/>
+        <circle cx="150" cy="49" r="4" fill="#1b85b8"/>
+        <circle cx="170" cy="73" r="4" fill="#1b85b8"/>
+        <circle cx="190" cy="208" r="4" fill="#1b85b8"/>
+        <circle cx="210" cy="99" r="4" fill="#1b85b8"/>
+        <circle cx="230" cy="57" r="4" fill="#1b85b8"/>
+        <circle cx="250" cy="173" r="4" fill="#1b85b8"/>
+        <circle cx="270" cy="187" r="4" fill="#1b85b8"/>
+        <circle cx="290" cy="214" r="4" fill="#1b85b8"/>
+        <circle cx="310" cy="223" r="4" fill="#1b85b8"/>
+        <circle cx="330" cy="65" r="4" fill="#1b85b8"/>
+        <circle cx="350" cy="202" r="4" fill="#1b85b8"/>
+        <circle cx="370" cy="38" r="4" fill="#1b85b8"/>
+        <circle cx="390" cy="39" r="4" fill="#1b85b8"/>
+        <circle cx="410" cy="193" r="4" fill="#1b85b8"/>
+        <circle cx="430" cy="39" r="4" fill="#1b85b8"/>
+        <circle cx="450" cy="104" r="4" fill="#1b85b8"/>
+        <circle cx="470" cy="250" r="4" fill="#1b85b8"/>
+    </g>
+
+    <g id="lines">
+        <path d="M30 217 L50 189 L70 86 L90 232 L110 113 L130 144 L150 49 L170 73 L190 208 L210 99 L230 57 L250 173 L270 187 L290 214 L310 223 L330 65 L350 202 L370 38 L390 39 L410 193 L430 39 L450 104 L470 250"
+              fill="none" stroke="#1b85b8" stroke-width="1"/>
+    </g>
+</svg>

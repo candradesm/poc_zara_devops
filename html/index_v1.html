@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codeowners Report</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            margin: auto;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            align-items: center;
+            color: #333;
+        }
+        header {
+            width: 100%;
+            background-color: #f8f9fa;
+            padding: 1rem;
+            text-align: center;
+        }
+        .result-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            flex-flow: row wrap;
+        }
+        .result {
+            padding: .5rem;
+            margin: 1rem;
+            border-radius: 0.5rem;
+            border: 1px solid;
+        }
+        .red {
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+        .info {
+            background-color: #d1ecf1;
+            border-color: #bee5eb;
+        }
+        .yellow {
+            background-color: #fff3cd;
+            border-color: #ffeeba;
+        }
+        .green {
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+        .title {
+            font-weight: bold;  
+        }
+        .subtitle {
+            font-size: 0.8rem;
+            margin-top: 0;
+        }
+        main {
+            width: 100%;
+            padding: 1rem;
+        }
+        section {
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 1rem;
+            padding-bottom: 1.25rem;
+        }
+        section:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        details {
+            margin-top: 1rem;
+            padding: 0.8rem;
+            background-color: #e4eaef;
+            border-radius: .25em;
+            width: 100%;
+            max-width: 75rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Codeowners Report</h1>
+        <div class="result-container">
+            <div class="result info">
+                <p class="title">Files analyzed</p>
+                <p class="subtitle">15550 files</p>
+            </div>
+    
+            <div class="result yellow">
+                <p class="title">Files without Codeowners</p>
+                <p class="subtitle">30 files (6%)</p>
+            </div>
+    
+            <div class="result red">
+                <p class="title">Files with partial Codeowners</p>
+                <p class="subtitle">1300 files (30%)</p>
+            </div>
+    
+            <div class="result green">
+                <p class="title">Codeowners duplicated</p>
+                <p class="subtitle">0 codeowners (0%)</p>
+            </div>
+
+            <div class="result yellow">
+                <p class="title">Codeowners without files</p>
+                <p class="subtitle">60 codeowners (12%)</p>
+            </div>
+        </div>
+    </header>
+    <main>
+        <article>
+            <section>
+                <h2>Files without Codeowners</h2>
+                <details>
+                    <summary>View files</summary>
+                    <ul>
+                        <li>code/ui/app/src/pro/java/com/inditex/zara/account/settings/developer/experiments/DeveloperExperimentContract.kt</li>
+                        <li>File 2</li>
+                        <li>File 3</li>
+                    </ul>
+                </details>
+            </section>
+            <section>
+                <h2>Files with partial Codeowners</h2>
+                <details>
+                    <summary>View files</summary>
+                    <ul>
+                        <li>File 1</li>
+                        <li>File 2</li>
+                        <li>File 3</li>
+                    </ul>
+                </details>
+            </section>
+            <section>
+                <h2>Codeowners duplicated</h2>
+                <details>
+                    <summary>View files</summary>
+                    <ul>
+                        <li>File 1</li>
+                        <li>File 2</li>
+                        <li>File 3</li>
+                    </ul>
+                </details>
+            </section>
+            <section>
+                <h2>Codeowners without files</h2>
+                <details>
+                    <summary>View files</summary>
+                    <ul>
+                        <li>File 1</li>
+                        <li>File 2</li>
+                        <li>File 3</li>
+                    </ul>
+                </details>
+            </section>
+        </article>
+    </main>
+    <footer>
+        <p>Generated on {{ date('Y-m-d H:i:s') }}</p>
+    </footer>
+</body>
+</html>
